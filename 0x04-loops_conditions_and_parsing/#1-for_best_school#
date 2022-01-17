@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# script to print "Best school 10 times"
+
+for var in 10; do
+    echo "Best School"done
+
+done
